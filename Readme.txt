@@ -1,4 +1,4 @@
-So basically, all of the bootloader and whatnot is manually done.
+So basically, all of the bootloader setup and whatnot is manually done.
 The kernel, and all C code is made by the ai.
 The ai can be told to put stuff in a header file but its kindof bad at actually doing that so I
      just cut and paste into header files from the kernel.C and did the #includes.
